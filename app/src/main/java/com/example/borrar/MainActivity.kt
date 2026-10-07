@@ -56,6 +56,11 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
             fontSize = 32.sp,
             modifier = modifier
         )
+        Text(
+            text = "tuuu",
+            fontSize = 32.sp,
+            modifier = modifier
+        )
     }
 }
 
